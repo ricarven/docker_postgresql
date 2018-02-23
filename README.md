@@ -1,2 +1,2 @@
 # docker_postgresql
-Pruebas con do
+Pruebas con docker para el manejo de Postgresql.
